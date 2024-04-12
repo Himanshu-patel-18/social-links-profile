@@ -1,4 +1,7 @@
-<H1>Social Links Profile</H1>
+<h1>Social Links Profile</h1>
 
+<h2>Desktop view</h2>
+<img src="./images/desktop.png" alt="">
 
-<img src="./images/IMG_20230420_114901_(3.5_x_4.5_cm).jpg" alt="">
+<h2>Mobile view</h2>
+<img src="./images/mobile.png" alt="">

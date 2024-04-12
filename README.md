@@ -4,4 +4,6 @@
 <img src="./images/desktop.png" alt="">
 
 <h2>Mobile view</h2>
+<center>
 <img src="./images/mobile.png" alt="">
+</center>
